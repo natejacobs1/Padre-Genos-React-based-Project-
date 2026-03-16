@@ -15,7 +15,7 @@ const App = () => {
          React.createElement("h1", {}, "Padre Genos"),
          React.createElement(Pizza, {
               name: "Chikku pizza",
-              description: "Just like pineapple",
+              description: "Just like pineapple pizza",
          }),
          React.createElement(Pizza),
          React.createElement(Pizza),
